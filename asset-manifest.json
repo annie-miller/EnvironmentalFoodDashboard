@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/~anniemiller/static/css/main.b7d806ad.css",
+    "main.js": "/~anniemiller/static/js/main.c3a91424.js",
+    "static/js/453.ed3810f9.chunk.js": "/~anniemiller/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/~anniemiller/index.html",
+    "main.b7d806ad.css.map": "/~anniemiller/static/css/main.b7d806ad.css.map",
+    "main.c3a91424.js.map": "/~anniemiller/static/js/main.c3a91424.js.map",
+    "453.ed3810f9.chunk.js.map": "/~anniemiller/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d806ad.css",
+    "static/js/main.c3a91424.js"
+  ]
+}
